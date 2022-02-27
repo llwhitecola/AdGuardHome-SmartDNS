@@ -23,3 +23,7 @@ https://doh.pub/dns-query
 180.76.76.76
 114.114.114.114
 
+# DNS封锁清单
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt **AdGuard DNS filter**
+https://adaway.org/hosts.txt **AdAway Default Blocklist**
+https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt **AD1**
