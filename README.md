@@ -1,4 +1,7 @@
-# AdGuardHome上游 DNS 服务器
+# 单独使用AdGuardHome
+**以下都是上游DNS服务器**
+⬇
+
 **谷歌DNS**
 
 8.8.8.8
@@ -75,3 +78,14 @@ https://doh.pub/dns-query
 **合体2**:https://halflife.coding.net/p/list/d/list/git/raw/master/ad.txt
 
 **EasyList China**:https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+
+**效果**
+![image](https://user-images.githubusercontent.com/33445700/155882746-7768d612-e2bd-4128-8c3f-14827d7fa4d1.png)
+
+
+# 搭配SmartDNS
+参考骷髅头大佬的文章:https://www.bilibili.com/read/cv12437146?spm_id_from=333.999.0.0
+
+要将二者搭配使用，需要将SmartDNS的重定向取消，然后在AdGuardHome的上有服务器里写上SmartDNS服务器地址和端口，如192.168.2.1:6053
+
+**可能有一些细节没写到或是错误的，我也是小白。教程进仅供记录自己，不供参考，网络不通不怪我。**
