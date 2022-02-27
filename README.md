@@ -1,4 +1,4 @@
-# 上游 DNS 服务器
+# AdGuardHome上游 DNS 服务器
 **谷歌DNS**
 
 8.8.8.8
