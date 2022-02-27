@@ -46,7 +46,7 @@ https://doh.pub/dns-query
 
 114.114.114.114
 
-# Bootstrap DNS 服务器
+# Bootstrap DNS 服务器 我也不知道干嘛的
 
 223.5.5.5
 
