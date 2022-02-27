@@ -24,6 +24,6 @@ https://doh.pub/dns-query
 114.114.114.114
 
 # DNS封锁清单
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt **AdGuard DNS filter**
-https://adaway.org/hosts.txt **AdAway Default Blocklist**
-https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt **AD1**
+**AdGuard DNS filter**https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt 
+**AdAway Default Blocklist**https://adaway.org/hosts.txt 
+**AD1**https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt 
